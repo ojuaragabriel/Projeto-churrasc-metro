@@ -6,7 +6,7 @@
 
 
 
-let inputAdultos = document.getHelementById("adultos");
+let inputAdultos = document.getHelementById("adultos"); //Alerta de erro
 let inputCriancas = document.getHelementById("criancas");
 let inputDuração = document.getHelementById("duracao");
  
