@@ -1,6 +1,7 @@
 // Carne - 400gr por pessoa + de 6 horas - 650
 // Cerveja - 1200 ml por pessoa + 6 horas - 2000 ml
 // Refrigerante/água - 1000 ml por pessoa + 6 horas 1500ml
+
 // Crianças valem por 0,5
 
 
