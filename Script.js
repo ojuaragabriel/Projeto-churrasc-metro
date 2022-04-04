@@ -28,7 +28,7 @@ function calcular() {
     resultado.innerHTML =  `<p>${qdtTotalCarne}g de Carne</p>`
     resultado.innerHTML += `<p>${qdtTotalCerveja}ml de Cerveja</p>`
     resultado.innerHTML += `<p>${qdtTotalBebidas}ml de Bebidas</p>`
-}
+ }
 
 function carnePP(duracao) {
     if (duracao >= 6){
